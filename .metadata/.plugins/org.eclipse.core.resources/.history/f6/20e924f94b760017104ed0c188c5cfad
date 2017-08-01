@@ -1,0 +1,12 @@
+package com.tutorialspoint;
+import java.util.*; 
+
+public class JavaCollection {
+	List addressList;
+	Set addressSet;
+	Map addressMap;
+	Properties addressProp;
+	
+	
+
+}
