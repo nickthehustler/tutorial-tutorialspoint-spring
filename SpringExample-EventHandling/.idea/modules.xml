@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringExample-InjectingInnerBeans.iml" filepath="$PROJECT_DIR$/SpringExample-InjectingInnerBeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringExample-CustomEvent/SpringExample-InjectingInnerBeans.iml" filepath="$PROJECT_DIR$/../SpringExample-CustomEvent/SpringExample-InjectingInnerBeans.iml" />
     </modules>
   </component>
 </project>
